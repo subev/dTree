@@ -1,87 +1,139 @@
 [
   {
-    "name": "Dqdo Todor",
+    "name": "Тодор Евтимов Людиев (Комара)",
     "class": "man",
-    "textClass": "emphasis",
     "marriages": [
       {
-        "spouse": {
-          "name": "Baba Penka",
-          "class": "woman"
-        },
+        "spouse": { "name": "Стана", "class": "woman" },
         "children": [
           {
-            "name": "Maika",
-            "class": "woman",
-            "marriages": [
-              {
-                "spouse": {
-                  "name": "Sub4o",
-                  "class": "man"
-                },
-                "children": [
-                  {
-                    "name": "Petar",
-                    "class": "man"
-                  },
-                  {
-                    "name": "Jeni",
-                    "class": "woman",
-                    "marriages": [
-                      {
-                        "spouse": {
-                          "name": "Jorko",
-                          "class": "man"
-                        },
-                        "children": [
-                          { "name": "Zara", "class": "woman" },
-                          { "name": "Misho", "class": "man" }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
+            "name": "Анастасия",
+            "class": "woman"
           },
           {
-            "name": "Lelq",
+            "name": "Стойна",
+            "class": "woman"
+          },
+          {
+            "name": "Стана",
+            "class": "woman"
+          },
+          {
+            "name": "Гина",
+            "class": "woman"
+          },
+          {
+            "name": "Хрусина Тодорова Евтимова",
             "class": "woman",
+            "textClass": "emphasis",
             "marriages": [
               {
                 "spouse": {
-                  "name": "Svako",
+                  "name": "Георги Атанасов Георгиев",
                   "class": "man"
                 },
                 "children": [
                   {
-                    "name": "bat Toshko",
+                    "name": "Dqdo Todor",
                     "class": "man",
+                    "textClass": "emphasis",
                     "marriages": [
                       {
                         "spouse": {
-                          "name": "Didka",
+                          "name": "Baba Penka",
                           "class": "woman"
                         },
                         "children": [
-                          { "name": "Martin", "class": "man" },
-                          { "name": "Boris", "class": "man" }
+                          {
+                            "name": "Maika",
+                            "class": "woman",
+                            "marriages": [
+                              {
+                                "spouse": {
+                                  "name": "Sub4o",
+                                  "class": "man"
+                                },
+                                "children": [
+                                  {
+                                    "name": "Petar",
+                                    "class": "man"
+                                  },
+                                  {
+                                    "name": "Jeni",
+                                    "class": "woman",
+                                    "marriages": [
+                                      {
+                                        "spouse": {
+                                          "name": "Jorko",
+                                          "class": "man"
+                                        },
+                                        "children": [
+                                          { "name": "Zara", "class": "woman" },
+                                          { "name": "Misho", "class": "man" }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Lelq",
+                            "class": "woman",
+                            "marriages": [
+                              {
+                                "spouse": {
+                                  "name": "Svako",
+                                  "class": "man"
+                                },
+                                "children": [
+                                  {
+                                    "name": "bat Toshko",
+                                    "class": "man",
+                                    "marriages": [
+                                      {
+                                        "spouse": {
+                                          "name": "Didka",
+                                          "class": "woman"
+                                        },
+                                        "children": [
+                                          { "name": "Martin", "class": "man" },
+                                          { "name": "Boris", "class": "man" }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "kaka Stela",
+                                    "class": "woman",
+                                    "marriages": [
+                                      {
+                                        "spouse": {
+                                          "name": "Stoqn",
+                                          "class": "man"
+                                        },
+                                        "children": [
+                                          { "name": "Vanesa", "class": "woman" }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
                         ]
                       }
                     ]
                   },
                   {
-                    "name": "kaka Stela",
-                    "class": "woman",
-                    "marriages": [
-                      {
-                        "spouse": {
-                          "name": "Stoqn",
-                          "class": "man"
-                        },
-                        "children": [{ "name": "Vanesa", "class": "woman" }]
-                      }
-                    ]
+                    "name": "Atanas",
+                    "class": "man"
+                  },
+                  {
+                    "name": "Димитър (починал на 5г)",
+                    "class": "man"
                   }
                 ]
               }
