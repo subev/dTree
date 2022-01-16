@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Dqdo Todor",
+    "class": "man",
+    "textClass": "emphasis",
+    "marriages": [
+      {
+        "spouse": {
+          "name": "Baba Penka",
+          "class": "woman"
+        },
+        "children": [
+          {
+            "name": "Maika",
+            "class": "woman",
+            "marriages": [
+              {
+                "spouse": {
+                  "name": "Sub4o",
+                  "class": "man"
+                },
+                "children": [
+                  {
+                    "name": "Petar",
+                    "class": "man"
+                  },
+                  {
+                    "name": "Jeni",
+                    "class": "woman",
+                    "marriages": [
+                      {
+                        "spouse": {
+                          "name": "Jorko",
+                          "class": "man"
+                        },
+                        "children": [
+                          { "name": "Zara", "class": "woman" },
+                          { "name": "Misho", "class": "man" }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Lelq",
+            "class": "woman",
+            "marriages": [
+              {
+                "spouse": {
+                  "name": "Svako",
+                  "class": "man"
+                },
+                "children": [
+                  {
+                    "name": "bat Toshko",
+                    "class": "man",
+                    "marriages": [
+                      {
+                        "spouse": {
+                          "name": "Didka",
+                          "class": "woman"
+                        },
+                        "children": [
+                          { "name": "Martin", "class": "man" },
+                          { "name": "Boris", "class": "man" }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "kaka Stela",
+                    "class": "woman",
+                    "marriages": [
+                      {
+                        "spouse": {
+                          "name": "Stoqn",
+                          "class": "man"
+                        },
+                        "children": [{ "name": "Vanesa", "class": "woman" }]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

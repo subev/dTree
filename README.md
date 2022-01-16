@@ -29,10 +29,13 @@ https://cdn.jsdelivr.net/npm/d3-dtree@2.4.1/dist/dTree.min.js
 ## Requirements
 To use the library the follow dependencies must be loaded:
 
+ - node 11 (use nvm install 11)
  - [D3](https://github.com/mbostock/d3) v4.x
  - [lodash](https://github.com/lodash/lodash) v4.x
 
 ## Usage
+
+
 To create a graph from data use the following command:
 ```javascript
 tree = dTree.init(data, options);
